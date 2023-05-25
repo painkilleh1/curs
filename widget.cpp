@@ -140,4 +140,4 @@ QImage Widget::LinearFunc(const QImage& colorImage) {
 
     return linear;
 }
-//ДА ЗА ЧТО
+
